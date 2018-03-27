@@ -1,0 +1,12 @@
+TropicaJuice,Tropicana,13,50,120,Unused
+LiptonIcedTea,Lipton,5,60,90,Unused
+BaiRainforest,Bai,20,45,90,Unused
+C4Drink,Cellucor,26,50,40,Redeemed
+NutriDrink,BoostDrinks,50,30,30,Unused
+EnergyDrink,Celsius,30,30,90,Redeemed
+SwitchJuice,Switch,25,10,45,Unused
+ThirstFrost,Gatorade,60,10,120,Unused
+KickingHorse,Khorse,40,20,360,Redeemed
+TintFootprint,Nicaragua,50,10,180,Redeemed
+RoastCoffee,Folgers,80,80,120,Redeemed
+ValhallaJava,Valhalla,40,20,360,Unused

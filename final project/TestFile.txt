@@ -1,0 +1,9 @@
+<<Existed>>
+EnergyDrink,Celsius,30,30,90,Redeemed
+SwitchJuice,Switch,25,10,45,Unused
+ThirstFrost,Gatorade,60,10,120,Unused
+KickingHorse,Khorse,40,20,360,Redeemed
+
+<<Not Exist>>
+SparklingLife,Switch,30,10,180,Unused
+QuencherFrost,Gatorade,40,80,120,Unused

@@ -1,0 +1,5 @@
+LiptonGreenTea,Lipton,9,60,90,Unused
+GroundCoffee,Starbucks,30,30,120,Unused
+DarkRoastCofee,KoffeeKult,25,50,120,Redeemed
+CaribouCoffee,Caribou,30,50,180,Redeemed
+365EverydayValue,DecafHouse,20,30,60,Unused
